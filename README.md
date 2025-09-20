@@ -1,0 +1,1 @@
+Generally its a plan for learning fastapi from not knowing wtf REST API is to being able to use it in 7 days with mini projects during it

@@ -1,0 +1,1 @@
+First day is mostly about theory, what REST API is, its endpoints, resources, HTTP verbs and status codes. Also JSON format and basics of HTTP with a little project at the end.
