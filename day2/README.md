@@ -1,0 +1,1 @@
+Basic TODO API with fastapi with in-memory storage, CRUD methods
